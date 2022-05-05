@@ -1,0 +1,13 @@
+body{
+  background-color: azure;
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Tapestry', cursive;
+}
+
+.main-header{
+  text-align: center;
+  text-transform: uppercase;
+  color: royalblue;
+  font-size: 30px;
+}
